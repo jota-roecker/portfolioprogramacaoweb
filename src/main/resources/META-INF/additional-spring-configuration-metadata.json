@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "spring.jpa.scan.packages",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.scan.packages'"
+  },
+  {
+    "name": "spring.jpa.scan.packages",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.scan.packages'"
+  },
+  {
+    "name": "@EntityScan(basePackages",
+    "type": "java.lang.String",
+    "description": "A description for '@EntityScan(basePackages'"
+  },
+  {
+    "name": "@EntityScan(basePackages",
+    "type": "java.lang.String",
+    "description": "A description for '@EntityScan(basePackages'"
+  },
+  {
+    "name": "@EntityScan(basePackages",
+    "type": "java.lang.String",
+    "description": "A description for '@EntityScan(basePackages'"
+  },
+  {
+    "name": "@EntityScan(basePackages",
+    "type": "java.lang.String",
+    "description": "A description for '@EntityScan(basePackages'"
+  }
+]}
